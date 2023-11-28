@@ -1,3 +1,2 @@
 # Jobsheet 14
-Kumpulan Coding dari Jobsheet Dasar Pemrograman Semester 1
-
+A collection of Jobsheet 14 programming code from the basic programming course semester 1 using the Java programming language
